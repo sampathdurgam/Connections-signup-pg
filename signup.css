@@ -1,0 +1,88 @@
+body{
+    /* display: flex;
+    justify-content: center; */
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    
+}
+.pg
+{
+    height: 100vh;
+    /* background-color: gray; */
+}
+.head
+{
+    display: flex;
+    justify-content: center;
+}
+.img
+{
+    margin-top: 40px;
+}
+.logo h2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.signup-body
+{
+   border: 0.1px solid black;
+   width: 270px;
+   /* margin: 30px auto; */
+   padding: 20px;
+   border-radius: 10px;
+}
+.signup-body h3{
+    display: flex;
+    margin-left: 8px;
+    margin-bottom: 20px;
+}
+.field
+{
+    border-radius: 9px;
+    /* text-align: center; */
+    border: 2px solid black;
+    width: 80%;
+    height: 80%;
+    font-size: 15px;
+    padding: 10px 20px;
+}
+.agree
+{
+   display: flex;
+   justify-content: left;
+   padding-left: 3px;
+}
+.agree a
+{
+  font-weight: 600;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.button
+{
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: rgb(85, 186, 226);
+    margin-top: 20px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 50%;
+    cursor: pointer;
+    font-weight: 600;
+}
+.button:hover
+{
+    background-color:rgb(12, 170, 233);
+}
+.login
+{
+    padding-top: 10px;
+    
+}
+.login a{
+    font-weight: 600;
+}
