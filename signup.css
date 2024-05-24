@@ -51,7 +51,7 @@ body{
 }
 .agree
 {
-/*    display: flex; */
+   display: flex;
    justify-content: left;
    padding-left: 3px;
 }
